@@ -8,5 +8,4 @@ Fork this library and open the SVG files with your favorite vector graphics edit
 
 # Current set of symbols
 
-1. Amplitude/Phase SLM:
-
+1. Amplitude/Phase SLM: ![LCoS SLM PNG](images/lcos_slm.png)
