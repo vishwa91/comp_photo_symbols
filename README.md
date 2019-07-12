@@ -12,14 +12,4 @@ All individual components are exported as PNG files in images/ at 1200DPI.
 
 # Current set of symbols
 
-1. Amplitude/Phase SLM
-
-![LCoS SLM PNG](thumbnails/lcos_slm.png)
-
-2. Machine Vision Camera
-
-![Camera PNG](thumbnails/machine_vision_camera.png)
-
-3. Machine Vision Lens
-
-![Lens PNG](thumbnails/machine_vision_lens.png)
+![All Components](images/all_components.png)
